@@ -1,5 +1,4 @@
-python-telegram-bot>=20.0
-flask
-pytz
+python-telegram-bot
+aiohttp
 
 
