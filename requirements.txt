@@ -1,6 +1,2 @@
-python-telegram-bot
+ampython-telegram-bot
 aiohttp
-gunicorn
-
-
-
