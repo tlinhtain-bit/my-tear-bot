@@ -1,2 +1,2 @@
-ampython-telegram-bot
+python-telegram-bot
 aiohttp
